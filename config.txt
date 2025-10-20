@@ -1,0 +1,4 @@
+example.local	127.0.0.1
+vk.com		    87.240.132.78
+youtube.com     127.0.0.1
+google.com      142.251.10.102
